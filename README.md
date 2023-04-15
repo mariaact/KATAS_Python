@@ -1,33 +1,10 @@
 # KATAS_Python
 
-## Spaghetti Code
-- Write some spaghetti code to help me know which piece of spaghetti is the longest.
-
-- ### Ejemplos
-
-````
-Ejemplo1:
-SSSSSASS____
-____________
-SSSSSSBSSSS_
-____________
-SSSSSC______
-
-sol: B
-
-Ejemplo2:
-
-SSSSSSSSS______   
-________S__SSS_
- S   S  A    S 
-_S___S__S____S_
- B   S       S 
-_S___SSSSSCSSS_
+## sum_two_smallest_numbers
+- Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. No floats or non-positive integers will be passed.
+- For example, when an array is passed like [19, 5, 42, 2, 77], the output should be 7. Or [10, 343445353, 3453445, 3453545353453] should return 3453455.
 
 
-sol: C
-
-````
 
 ## Linux
 
