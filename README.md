@@ -4,7 +4,8 @@
 - Write some spaghetti code to help me know which piece of spaghetti is the longest.
 
 - ### Ejemplos
-``
+
+````
 Ejemplo1:
 SSSSSASS____
 ____________
@@ -26,7 +27,7 @@ _S___SSSSSCSSS_
 
 sol: C
 
-``
+````
 
 ## Linux
 
