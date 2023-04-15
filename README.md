@@ -1,9 +1,9 @@
 # KATAS_Python
 
 ## Spaghetti Code
-### Write some spaghetti code to help me know which piece of spaghetti is the longest.
+- Write some spaghetti code to help me know which piece of spaghetti is the longest.
 
-### Ejemplos
+- ### Ejemplos
 ``
 Ejemplo1:
 SSSSSASS____
